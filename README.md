@@ -1,1 +1,1 @@
-# Awari_PE
+# Awari_Exercícios 
